@@ -1,0 +1,306 @@
+[
+    {
+        "id":  "ec2ecc3440b0",
+        "name":  "弹匣容量全面增容 + 背包优化",
+        "author":  "LHuiMeng",
+        "version":  "1.0.0",
+        "description":  "提升弹匣容量并优化背包使用体验。",
+        "fileSize":  252089,
+        "downloadUrl":  "https://raw.githubusercontent.com/LHuiMeng/SCUM-Mod-Desk-Cloud/main/cloud/paks/%E5%BC%B9%E5%8C%A3%E5%AE%B9%E9%87%8F%E5%85%A8%E9%9D%A2%E5%A2%9E%E5%AE%B9%20%2B%20%E8%83%8C%E5%8C%85%E4%BC%98%E5%8C%96.pak",
+        "sha256":  "ec2ecc3440b0ee5dac12166cec51eb42628626e0eae4f70b79d80d4dec13cab4",
+        "tags":  [
+                     "客户端 PAK",
+                     "自制"
+                 ],
+        "updatedAt":  "2026-10-29T08:09:36.9030075Z",
+        "type":  "clientPak"
+    },
+    {
+        "id":  "caa8f1e30b88",
+        "name":  "动物帽子无限耐久",
+        "author":  "LHuiMeng",
+        "version":  "1.0.0",
+        "description":  "动物主题帽子不再损耗耐久。",
+        "fileSize":  20211,
+        "downloadUrl":  "https://raw.githubusercontent.com/LHuiMeng/SCUM-Mod-Desk-Cloud/main/cloud/paks/%E5%8A%A8%E7%89%A9%E5%B8%BD%E5%AD%90%E6%97%A0%E9%99%90%E8%80%90%E4%B9%85.pak",
+        "sha256":  "caa8f1e30b8850013a99e25eb2ae41e7f50d8b1b6dea077916d6163a2cf46f4c",
+        "tags":  [
+                     "客户端 PAK",
+                     "自制"
+                 ],
+        "updatedAt":  "2026-10-29T08:09:24.7810429Z",
+        "type":  "clientPak"
+    },
+    {
+        "id":  "48d814bb72a1",
+        "name":  "堆叠上限提升",
+        "author":  "LHuiMeng",
+        "version":  "1.0.0",
+        "description":  "提高可堆叠物品的上限。",
+        "fileSize":  188946,
+        "downloadUrl":  "https://raw.githubusercontent.com/LHuiMeng/SCUM-Mod-Desk-Cloud/main/cloud/paks/%E5%A0%86%E5%8F%A0%E4%B8%8A%E9%99%90%E6%8F%90%E5%8D%87.pak",
+        "sha256":  "48d814bb72a1392ff3e368e126c4cdeea4d31458e21114b23357a229b4662665",
+        "tags":  [
+                     "客户端 PAK",
+                     "自制"
+                 ],
+        "updatedAt":  "2026-10-29T08:09:37.4141781Z",
+        "type":  "clientPak"
+    },
+    {
+        "id":  "689b89a9b575",
+        "name":  "发电机静音",
+        "author":  "LHuiMeng",
+        "version":  "1.0.0",
+        "description":  "降低或消除发电机运行噪音。",
+        "fileSize":  8593,
+        "downloadUrl":  "https://raw.githubusercontent.com/LHuiMeng/SCUM-Mod-Desk-Cloud/main/cloud/paks/%E5%8F%91%E7%94%B5%E6%9C%BA%E9%9D%99%E9%9F%B3.pak",
+        "sha256":  "689b89a9b57545d4a13248850d5f1e757f585f0805ede72d075a597d250dee15",
+        "tags":  [
+                     "客户端 PAK",
+                     "自制"
+                 ],
+        "updatedAt":  "2026-10-29T06:19:23.7349444Z",
+        "type":  "clientPak"
+    },
+    {
+        "id":  "e1c04ac5819f",
+        "name":  "海水变淡水",
+        "author":  "LHuiMeng",
+        "version":  "1.0.0",
+        "description":  "将海水调整为可直接使用的淡水。",
+        "fileSize":  1874,
+        "downloadUrl":  "https://raw.githubusercontent.com/LHuiMeng/SCUM-Mod-Desk-Cloud/main/cloud/paks/%E6%B5%B7%E6%B0%B4%E5%8F%98%E6%B7%A1%E6%B0%B4.pak",
+        "sha256":  "e1c04ac5819f4816c6129c0a8c7b56c41f468cb39b57eb88271c102ceec1e743",
+        "tags":  [
+                     "客户端 PAK",
+                     "自制"
+                 ],
+        "updatedAt":  "2026-10-29T08:09:38.0398575Z",
+        "type":  "clientPak"
+    },
+    {
+        "id":  "43d4d64b0494",
+        "name":  "黄金武士刀替换赛博武士刀",
+        "author":  "LHuiMeng",
+        "version":  "1.0.0",
+        "description":  "用黄金武士刀外观替换赛博武士刀。",
+        "fileSize":  89777992,
+        "downloadUrl":  "https://raw.githubusercontent.com/LHuiMeng/SCUM-Mod-Desk-Cloud/main/cloud/paks/%E9%BB%84%E9%87%91%E6%AD%A6%E5%A3%AB%E5%88%80%E6%9B%BF%E6%8D%A2%E8%B5%9B%E5%8D%9A%E6%AD%A6%E5%A3%AB%E5%88%80.pak",
+        "sha256":  "43d4d64b04944ef8a3d002c7944909916a5588595b5debda3c8e6e11117d9ccf",
+        "tags":  [
+                     "客户端 PAK",
+                     "自制"
+                 ],
+        "updatedAt":  "2026-10-29T08:10:14.2352306Z",
+        "type":  "clientPak"
+    },
+    {
+        "id":  "46200e7cad28",
+        "name":  "军包01-06换皮Tyrone（四效合一）",
+        "author":  "LHuiMeng",
+        "version":  "1.0.0",
+        "description":  "军包 01 至 06 统一替换为 Tyrone 风格外观。",
+        "fileSize":  7105,
+        "downloadUrl":  "https://raw.githubusercontent.com/LHuiMeng/SCUM-Mod-Desk-Cloud/main/cloud/paks/%E5%86%9B%E5%8C%8501-06%E6%8D%A2%E7%9A%AETyrone%EF%BC%88%E5%9B%9B%E6%95%88%E5%90%88%E4%B8%80%EF%BC%89.pak",
+        "sha256":  "46200e7cad2843eacb66f44550dbc2a32e7917916effefac0fc961c42fc23009",
+        "tags":  [
+                     "客户端 PAK",
+                     "自制"
+                 ],
+        "updatedAt":  "2026-10-29T08:09:28.1297218Z",
+        "type":  "clientPak"
+    },
+    {
+        "id":  "b0ced2896bec",
+        "name":  "可制作现代厨房",
+        "author":  "LHuiMeng",
+        "version":  "1.0.0",
+        "description":  "加入可制作的现代厨房设施。",
+        "fileSize":  161259,
+        "downloadUrl":  "https://raw.githubusercontent.com/LHuiMeng/SCUM-Mod-Desk-Cloud/main/cloud/paks/%E5%8F%AF%E5%88%B6%E4%BD%9C%E7%8E%B0%E4%BB%A3%E5%8E%A8%E6%88%BF.pak",
+        "sha256":  "b0ced2896becb3d70ea5bc672f1e1cb5c229a1e6dcaea68451c9495c5bb2c546",
+        "tags":  [
+                     "客户端 PAK",
+                     "自制"
+                 ],
+        "updatedAt":  "2026-10-29T08:09:28.2561002Z",
+        "type":  "clientPak"
+    },
+    {
+        "id":  "139e0d594009",
+        "name":  "螺丝刀与开锁工具合并",
+        "author":  "LHuiMeng",
+        "version":  "1.0.0",
+        "description":  "将螺丝刀与开锁工具整合使用。",
+        "fileSize":  17172,
+        "downloadUrl":  "https://raw.githubusercontent.com/LHuiMeng/SCUM-Mod-Desk-Cloud/main/cloud/paks/%E8%9E%BA%E4%B8%9D%E5%88%80%E4%B8%8E%E5%BC%80%E9%94%81%E5%B7%A5%E5%85%B7%E5%90%88%E5%B9%B6.pak",
+        "sha256":  "139e0d594009b58c465babca74bbbba1131e72037d54c02fd89dc1edd5b02258",
+        "tags":  [
+                     "客户端 PAK",
+                     "自制"
+                 ],
+        "updatedAt":  "2026-10-29T08:09:32.0199317Z",
+        "type":  "clientPak"
+    },
+    {
+        "id":  "13754927f200",
+        "name":  "取消负重惩罚",
+        "author":  "LHuiMeng",
+        "version":  "1.0.0",
+        "description":  "移除负重超限带来的移动惩罚。",
+        "fileSize":  17075,
+        "downloadUrl":  "https://raw.githubusercontent.com/LHuiMeng/SCUM-Mod-Desk-Cloud/main/cloud/paks/%E5%8F%96%E6%B6%88%E8%B4%9F%E9%87%8D%E6%83%A9%E7%BD%9A.pak",
+        "sha256":  "13754927f2004fe2c558fe41668665a255d1368a6fce94bcb88ffe036a040451",
+        "tags":  [
+                     "客户端 PAK",
+                     "自制"
+                 ],
+        "updatedAt":  "2026-10-29T08:09:34.4512887Z",
+        "type":  "clientPak"
+    },
+    {
+        "id":  "a9ee3039ab9e",
+        "name":  "全手套无限耐久",
+        "author":  "LHuiMeng",
+        "version":  "1.0.0",
+        "description":  "所有手套不再损耗耐久。",
+        "fileSize":  75083,
+        "downloadUrl":  "https://raw.githubusercontent.com/LHuiMeng/SCUM-Mod-Desk-Cloud/main/cloud/paks/%E5%85%A8%E6%89%8B%E5%A5%97%E6%97%A0%E9%99%90%E8%80%90%E4%B9%85.pak",
+        "sha256":  "a9ee3039ab9e4985c7fb2856d1d75f1168be8e69773c655712f81ba3aa2ded5a",
+        "tags":  [
+                     "客户端 PAK",
+                     "自制"
+                 ],
+        "updatedAt":  "2026-10-29T08:09:31.0197803Z",
+        "type":  "clientPak"
+    },
+    {
+        "id":  "0cf105efc75f",
+        "name":  "人偶服最高档防弹",
+        "author":  "LHuiMeng",
+        "version":  "1.0.0",
+        "description":  "将人偶服防护提升至最高档防弹等级。",
+        "fileSize":  6771,
+        "downloadUrl":  "https://raw.githubusercontent.com/LHuiMeng/SCUM-Mod-Desk-Cloud/main/cloud/paks/%E4%BA%BA%E5%81%B6%E6%9C%8D%E6%9C%80%E9%AB%98%E6%A1%A3%E9%98%B2%E5%BC%B9.pak",
+        "sha256":  "0cf105efc75f45a190e175c211d4f3eeed889c01327ce0a7b56027b6b1a640c3",
+        "tags":  [
+                     "客户端 PAK",
+                     "自制"
+                 ],
+        "updatedAt":  "2026-10-29T06:19:22.0337291Z",
+        "type":  "clientPak"
+    },
+    {
+        "id":  "9b8bcbbb0c91",
+        "name":  "容器最大负重",
+        "author":  "LHuiMeng",
+        "version":  "1.0.0",
+        "description":  "提高容器可承载的最大负重。",
+        "fileSize":  43285,
+        "downloadUrl":  "https://raw.githubusercontent.com/LHuiMeng/SCUM-Mod-Desk-Cloud/main/cloud/paks/%E5%AE%B9%E5%99%A8%E6%9C%80%E5%A4%A7%E8%B4%9F%E9%87%8D.pak",
+        "sha256":  "9b8bcbbb0c91273464412ccc2abb91e38753ccd7491c4baa19f29e51a187f3ab",
+        "tags":  [
+                     "客户端 PAK",
+                     "自制"
+                 ],
+        "updatedAt":  "2026-10-29T08:09:27.7610108Z",
+        "type":  "clientPak"
+    },
+    {
+        "id":  "f2312582da1d",
+        "name":  "弯草叉→Thornblade 剑(移速+20%_一刀秒_永固)",
+        "author":  "LHuiMeng",
+        "version":  "1.0.0",
+        "description":  "将弯草叉替换为 Thornblade 剑，并调整移速、伤害与耐久。",
+        "fileSize":  10745447,
+        "downloadUrl":  "https://raw.githubusercontent.com/LHuiMeng/SCUM-Mod-Desk-Cloud/main/cloud/paks/%E5%BC%AF%E8%8D%89%E5%8F%89%E2%86%92Thornblade%20%E5%89%91(%E7%A7%BB%E9%80%9F%2B20%25_%E4%B8%80%E5%88%80%E7%A7%92_%E6%B0%B8%E5%9B%BA).pak",
+        "sha256":  "f2312582da1dbc1676b38f2413ad09b46262ac3b4a008701c88b2d736c4e3447",
+        "tags":  [
+                     "客户端 PAK",
+                     "自制"
+                 ],
+        "updatedAt":  "2026-10-29T08:09:48.0440814Z",
+        "type":  "clientPak"
+    },
+    {
+        "id":  "a639c5f4c9ed",
+        "name":  "鞋丝袜五合一(无限耐久+储物+嵌套+防脏+受击免疫)",
+        "author":  "LHuiMeng",
+        "version":  "1.0.0",
+        "description":  "鞋袜整合无限耐久、储物、嵌套、防脏与受击免疫。",
+        "fileSize":  560851,
+        "downloadUrl":  "https://raw.githubusercontent.com/LHuiMeng/SCUM-Mod-Desk-Cloud/main/cloud/paks/%E9%9E%8B%E4%B8%9D%E8%A2%9C%E4%BA%94%E5%90%88%E4%B8%80(%E6%97%A0%E9%99%90%E8%80%90%E4%B9%85%2B%E5%82%A8%E7%89%A9%2B%E5%B5%8C%E5%A5%97%2B%E9%98%B2%E8%84%8F%2B%E5%8F%97%E5%87%BB%E5%85%8D%E7%96%AB).pak",
+        "sha256":  "a639c5f4c9ed533607911e0b3cff13f6f0c81d89182d7dcab7ba9204d5ba2aa0",
+        "tags":  [
+                     "客户端 PAK",
+                     "自制"
+                 ],
+        "updatedAt":  "2026-10-29T08:09:45.6940197Z",
+        "type":  "clientPak"
+    },
+    {
+        "id":  "df0e6c2ec319",
+        "name":  "衣物容器嵌套",
+        "author":  "LHuiMeng",
+        "version":  "1.0.0",
+        "description":  "允许衣物容器之间相互嵌套。",
+        "fileSize":  616816,
+        "downloadUrl":  "https://raw.githubusercontent.com/LHuiMeng/SCUM-Mod-Desk-Cloud/main/cloud/paks/%E8%A1%A3%E7%89%A9%E5%AE%B9%E5%99%A8%E5%B5%8C%E5%A5%97.pak",
+        "sha256":  "df0e6c2ec319469a29d4545e60679f8658d079947db467c67bf083387caab0e2",
+        "tags":  [
+                     "客户端 PAK",
+                     "自制"
+                 ],
+        "updatedAt":  "2026-10-29T08:09:27.0984776Z",
+        "type":  "clientPak"
+    },
+    {
+        "id":  "3e7fd774a3da",
+        "name":  "载具最大负重",
+        "author":  "LHuiMeng",
+        "version":  "1.0.0",
+        "description":  "提高载具的最大载重。",
+        "fileSize":  54094,
+        "downloadUrl":  "https://raw.githubusercontent.com/LHuiMeng/SCUM-Mod-Desk-Cloud/main/cloud/paks/%E8%BD%BD%E5%85%B7%E6%9C%80%E5%A4%A7%E8%B4%9F%E9%87%8D.pak",
+        "sha256":  "3e7fd774a3da8bc1ac6d709cd4b96ace9472c39dd15e376cec240e2fcdff02ae",
+        "tags":  [
+                     "客户端 PAK",
+                     "自制"
+                 ],
+        "updatedAt":  "2026-10-29T08:09:44.3256041Z",
+        "type":  "clientPak"
+    },
+    {
+        "id":  "346d7bd6d070",
+        "name":  "装填速度x4",
+        "author":  "LHuiMeng",
+        "version":  "1.0.0",
+        "description":  "将武器装填速度提升至四倍。",
+        "fileSize":  1934968,
+        "downloadUrl":  "https://raw.githubusercontent.com/LHuiMeng/SCUM-Mod-Desk-Cloud/main/cloud/paks/%E8%A3%85%E5%A1%AB%E9%80%9F%E5%BA%A6x4.pak",
+        "sha256":  "346d7bd6d0703f6da50809643b724433e0f7a31ca004f8145d1eace1ade79188",
+        "tags":  [
+                     "客户端 PAK",
+                     "自制"
+                 ],
+        "updatedAt":  "2026-10-29T08:09:35.0393229Z",
+        "type":  "clientPak"
+    },
+    {
+        "id":  "45d9059aa34e",
+        "name":  "Rager跑车极速300",
+        "author":  "LHuiMeng",
+        "version":  "1.0.0",
+        "description":  "将 Rager 跑车的最高速度调整为 300。",
+        "fileSize":  14274,
+        "downloadUrl":  "https://raw.githubusercontent.com/LHuiMeng/SCUM-Mod-Desk-Cloud/main/cloud/paks/Rager%E8%B7%91%E8%BD%A6%E6%9E%81%E9%80%9F300.pak",
+        "sha256":  "45d9059aa34e1e96511912bdafb6d1a8e829db187822233abdb9cc7a51e60dc4",
+        "tags":  [
+                     "客户端 PAK",
+                     "自制"
+                 ],
+        "updatedAt":  "2026-10-29T08:09:38.1910194Z",
+        "type":  "clientPak"
+    }
+]
