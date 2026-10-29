@@ -27,14 +27,6 @@ pwsh -File scripts/build-github-cloud.ps1
 PAK、清理 `cloud/paks` 中不再属于白名单的顶层文件、重新计算完整 SHA-256
 与字节数，并生成 UTF-8、无 BOM 的 `cloud/mods`。
 
-## 发布边界
-
-以下三个 PAK 不属于发布范围，脚本不会复制或写入目录：
-
-- `cat背包.pak`
-- `1144服务器定制.pak`
-- `美乐蒂背包.pak`
-
 GitHub 对单个文件有 100 MiB 硬限制，并对超过 50 MiB 的文件给出警告。当前
 最大文件约 85.6 MiB，低于硬限制。更新大文件后应先运行脚本检查大小，再提交
 并推送；如后续超过限制，需改用 Git LFS 或 GitHub Release 资产。
